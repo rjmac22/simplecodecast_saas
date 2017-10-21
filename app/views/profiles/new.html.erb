@@ -6,7 +6,7 @@
             <%= form_for @profile, url: user_profile_path do |f| %>
             <div class="form-group">
                 <%= f.label :first_name %>
-                <%= f.text_field :last_name, class: 'form-control' %>
+                <%= f.text_field :first_name, class: 'form-control' %>
             </div>
 
             <div class="form-group">
@@ -26,7 +26,7 @@
 
             <div class="form-group">
                 <%= f.label :contact_email %>
-                <%= f.text_field :phone_number, class: 'form-control' %>
+                <%= f.text_field :contact_email, class: 'form-control' %>
             </div>
 
             <div class="form-group">
