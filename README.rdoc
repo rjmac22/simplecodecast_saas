@@ -1,10 +1,12 @@
 == README
 
-Simple Code Casts Project Application
-Subscription-based web app
-http://simplecodecasts.com
+powerful-taiga-31777.herokuapp.com/
 
-Things you may want to cover:
+Subscription-based web app
+
+allows members to connect via a subcription based web app using stripe payment.
+
+Things to to cover:
 
 * Ruby version
 
