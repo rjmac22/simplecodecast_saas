@@ -1,29 +1,9 @@
 == README
 
-Simple Code Casts Project Application
+https://powerful-taiga-31777.herokuapp.com/
+
 Subscription-based web app
-http://simplecodecasts.com
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+allows members to connect via a subcription based web app using stripe payment.
 
 
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
